@@ -7,4 +7,4 @@ Practicar el flujo de trabajo con Git y GitHub.
 - git switch
 - git merge
 - git push
-- git pull
+- git pull origin main
